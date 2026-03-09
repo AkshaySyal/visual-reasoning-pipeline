@@ -1,2 +1,2 @@
 # visual-reasoning-pipeline
-End-to-end experiments with vision model prompting: segmentation (SAM), detection (OWL-ViT), diffusion generation, and DreamBooth fine-tuning.
+End-to-end experiments with vision model: segmentation (SAM), detection (OWL-ViT), diffusion generation, and fine-tuning a Visual Language Model.
